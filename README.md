@@ -1,44 +1,56 @@
-<h1 align="center">
-  Hi 👋, I'm Begenc
-</h1>
+<h1 align="center">Hi 👋, I'm Begenc</h1>
+
+<h3 align="center">
+🚀 Frontend Developer | Vue.js • Nuxt.js • JavaScript
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;Vue.js+%7C+Nuxt.js;Clean+Code+%26+Modern+UI;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Vue.js+Developer;Nuxt.js+Specialist;JavaScript+Engineer;Building+Beautiful+Web+Apps&center=true&width=520&height=45">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Begenc430&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-- 💻 Vue.js / Nuxt.js Developer  
-- 🔗 API Integration (REST)  
-- 🎨 UI/UX Lover  
-- ⚡ Performance Focused  
-
----
-
-## 🌐 Connect with me
-
-<p align="center">
-  <a href="https://t.me/@Begench7876">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/iam_begench">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
-  </a>
-</p>
+- 💻 I specialize in **Vue.js, Nuxt.js, and JavaScript**
+- 🎨 I love building modern, responsive UI/UX
+- ⚡ Fast learner & clean code lover
+- 🌍 Growing into Full-Stack Developer
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Featured Projects
+
+### 🏀 Basketball Platform
+- 📊 Player statistics & performance tracking  
+- 🧑‍🏫 Coaches and top players system  
+- 🖼️ Media gallery (images & videos)  
+- ⭐ Ranking system  
+
+---
+
+### ✈️ Travel Platform
+- 🏨 Hotel booking system  
+- 🌍 Tour packages  
+- 📅 Reservation system  
+- 👤 Personal user dashboard  
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,html,css,sass,pinia,git" />
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,js,ts,html,css,scss,pinia,git,github,vscode" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Begenc430&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Begenc430&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" width="48%" />
@@ -46,14 +58,29 @@
 
 ---
 
-## 🚀 Projects
+## 🔥 GitHub Streak
 
-- 📦 Package Tracking App (Nuxt 3)
-- 🛒 E-commerce UI
-- 🔐 Auth System
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Begenc430&theme=tokyonight&hide_border=true&border_radius=15" />
+</p>
 
 ---
 
+## 🌐 Connect with Me
+
 <p align="center">
-  ✨ Code. Create. Dominate. ✨
+  <a href="https://t.me/Begenc7876">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/iam_begench">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 💡 Quote
+
+<p align="center">
+  <i>"Let the results make the noise."</i>
 </p>
