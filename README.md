@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;Vue+3+%7C+Nuxt+3;Clean+Code+%26+Modern+UI;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;Vue.js+%7C+Nuxt.js;Clean+Code+%26+Modern+UI;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -39,11 +39,9 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Begenc430&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Begenc430&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Begenc430&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Begenc430&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" width="48%" />
 </p>
 
 ---
