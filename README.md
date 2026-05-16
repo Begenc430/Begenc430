@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 💻 Vue 3 / Nuxt 3 Developer  
+- 💻 Vue.js / Nuxt.js Developer  
 - 🔗 API Integration (REST)  
 - 🎨 UI/UX Lover  
 - ⚡ Performance Focused  
@@ -19,6 +19,14 @@
 
 ## 🌐 Connect with me
 
+<p align="center">
+  <a href="https://t.me/@Begench7876">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/iam_begench">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -33,17 +41,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Begenc430&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Contribution Snake (ANIMATION 🔥)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Begenc430&layout=compact&theme=tokyonight" />
 </p>
 
 ---
